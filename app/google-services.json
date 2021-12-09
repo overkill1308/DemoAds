@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069111199856",
+    "project_id": "demoads-bc123",
+    "storage_bucket": "demoads-bc123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069111199856:android:3f8227577b34853e760cb5",
+        "android_client_info": {
+          "package_name": "com.example.demoadmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069111199856-ajomj2d5e78eq4o0m2vn0if95nmsm7jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnnm2PnvLYMTT_vRzOojIWNd8S5FNktt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069111199856-ajomj2d5e78eq4o0m2vn0if95nmsm7jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
